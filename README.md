@@ -1,2 +1,2 @@
-# campus-equipment-checkout
-System that tracks campus equipment
+# Campus Equipment Checkout 
+Tracks laptops, cameras, and lab kits available for student checkout. 
